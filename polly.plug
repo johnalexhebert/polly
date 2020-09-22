@@ -1,0 +1,9 @@
+[Core]
+name = polly
+module = polly
+
+[Documentation]
+description = Updates SADevs Slack #politics topic with election date countdown
+
+[Python]
+version = 3
